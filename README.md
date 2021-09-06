@@ -1,4 +1,4 @@
-👋🏼 Hi, I’m @buzz.lightsnack.2007! 
+# 👋🏼 Hi, I’m @buzz.lightsnack.2007! 
 
 👀 I’m interested in…
 Tech
