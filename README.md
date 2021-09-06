@@ -1,25 +1,29 @@
-#👋🏼 Hi, I’m @buzz.lightsnack.2007! 
-#👀 I’m interested in…
-##Tech
+👋🏼 Hi, I’m @buzz.lightsnack.2007! 
+
+👀 I’m interested in…
+Tech
 	• 	rambling about tech news to my (uninterested) younger brother
 	• 	creating websites
 	• 	using MIT’s App Inventor to create cool Android softwares
 	• 	creating programs via Apple’s Automator
 	• 	editing videos
-##Others...
+Others...
 	• 	reading fiction novels
 	• 	Pixar fan
 	• 	enjoys watching video essays
 	• 	ONCE (TWICE fan)
-#🌱 I’m currently learning…
+
+🌱 I’m currently learning…
 	√ 	HTML
 	√ 	CSS
 	√ 	JavaScript
 	√ 	Python
-#💞️ I’m looking to collaborate on…
-open-source projects to speed up one’s workflow
-developing websites for nonprofits and open-source projects
-#📫 How to reach me
+
+💞️ I’m looking to collaborate on…
+	• 	open-source projects to speed up one’s workflow
+	• 	developing websites for nonprofits and open-source projects
+
+📫 How to reach me
 	• 	Email: kendrichhansly@gmail.com
 	• 	Element: 1d9ofmg6z@relay.firefox.com
 	• 	Instagram: buzz.lightsnack.2007
