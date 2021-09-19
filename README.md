@@ -18,6 +18,7 @@
 - CSS
 - JavaScript
 - Python
+- AppleScript
 
 ## 💞️ I’m looking to collaborate on…
 - open-source projects to speed up one’s workflow
