@@ -29,8 +29,7 @@
 - Element: 1d9ofmg6z@relay.firefox.com
 - Instagram: buzz.lightsnack.2007
 
-**_This GitHub repository is empty as most of the files are in the full repository below via Google Drive:_
-https://drive.google.com/drive/folders/1bDsAAZ0yAO-odg_hhDXXYXbxUjwNlDdZ **
+
 
 <!---
 buzz-lightsnack-2007/buzz-lightsnack-2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
