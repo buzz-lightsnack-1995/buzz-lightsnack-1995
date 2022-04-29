@@ -25,8 +25,8 @@
 - developing websites for nonprofits and open-source projects
 
 ## 📫 How to reach me
-- Email: kendrichhansly@gmail.com
-- Element: 1d9ofmg6z@relay.firefox.com
+- Email: kendrichhansly _plus_ git _at_ gmail _dot_ com
+- Element: 1d9ofmg6z _at_ relay _dot_ firefox _dot_ com
 - Instagram: buzz.lightsnack.2007
 
 
